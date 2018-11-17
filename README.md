@@ -1,5 +1,5 @@
 
-Spurce code for movie trailer website project for the Udacity "Python Foundation Nanodegree"
+Source code for movie trailer website project for the Udacity "Python Foundation Nanodegree"
 
 Required Libraries
 
